@@ -16,3 +16,9 @@ stages{
         build
     }
 }
+
+steps{
+    unit_test{
+        stage = "Unit Test"
+    }
+}
