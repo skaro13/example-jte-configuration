@@ -14,6 +14,5 @@ stages{
         unit_test
         static_code_analysis
         build
-        scan_artifact
     }
 }
